@@ -1,0 +1,3 @@
+# create a mono-repo
+mkdir ai-video-summariser && cd ai-video-summariser
+git init
